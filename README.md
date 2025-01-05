@@ -1,5 +1,6 @@
 # Hi I'm Rahul  💫 About Me:
-🔭 I’m currently working on https://github.com/07Akashh/TechiSpot.git<br>🤝 I’m looking for help with<br>🌱 I’m currently learning MERN Stack Development<br>
+🔭 I’m currently working as a MERN Stack Developer
+<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Redux.js<br>
 
 [![](https://visitcount.itsvg.in/api?id=07Akashh&icon=5&color=11)](https://visitcount.itsvg.in)
 
