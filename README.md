@@ -2,18 +2,22 @@
 
 # Rahul Kumar
 
-### Backend-Focused Software Engineer • AI Systems • Distributed Architectures • Full Stack Builder
+### Backend-Focused Software Engineer • AI-Native Systems • Distributed Architectures • Product Engineering
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI-Native+Systems;Distributed+Backend+Engineer;High-Concurrency+System+Builder;RAG+Pipelines+%7C+LangChain+%7C+AWS;Shipping+Production+Systems+Fast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=1000&lines=Building+AI-Native+Platforms;Distributed+Systems+Engineer;Microservices+%7C+RAG+Pipelines+%7C+AWS;High-Concurrency+Backend+Systems;React+Native+%7C+Node.js+%7C+TypeScript;Fast+Execution+%7C+Production+Ownership" />
 
 <br/>
 
-<a href="mailto:rahulk.softdev@gmail.com">
-<img src="https://img.shields.io/badge/Email-rahulk.softdev%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=07Akashh&style=for-the-badge&color=0e75b6" />
 
-<a href="tel:+919026478761">
-<img src="https://img.shields.io/badge/Phone-%2B91%209026478761-success?style=for-the-badge&logo=googlemessages&logoColor=white"/>
+</div>
+
+---
+
+<div align="center">
+
+<a href="mailto:rahulk.softdev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rahulksoftdev/">
@@ -28,69 +32,83 @@
 <img src="https://img.shields.io/badge/GitHub-07Akashh-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="tel:+919026478761">
+<img src="https://img.shields.io/badge/Phone-%2B91%209026478761-success?style=for-the-badge&logo=googlemessages&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 # 💫 About Me
 
-```yaml
-Name: Rahul Kumar
-Role: Backend-Focused Software Engineer
-Location: New Delhi, India
+```yaml id="ksu82x"
+name: Rahul Kumar
+role: Backend-Focused Software Engineer
 
-Current Focus:
-  - AI-native systems
-  - Distributed architectures
-  - RAG pipelines
-  - Event-driven systems
-  - Backend scalability
-  - High-concurrency workflows
+specialization:
+  - Distributed Systems
+  - AI-Native Applications
+  - Backend Architecture
+  - Event-Driven Systems
+  - RAG Pipelines
+  - High-Concurrency Workflows
+  - Product Engineering
 
-Professional Strengths:
-  - Fast execution
-  - System design
-  - Production ownership
-  - AI workflow engineering
-  - MVP shipping
-  - Backend architecture
+currently_building:
+  - VidyaSethu
+  - E2E Advanced Communication Platform
+  - AI-native backend systems
+  - Microservice-based infrastructures
+  - Real-time communication architectures
 
-Experience:
+experience:
   - Processed 1M+ records
-  - Built production-grade AI systems
+  - Built production AI systems
   - Delivered MVPs under aggressive timelines
-  - Worked on distributed cloud-native systems
+  - Architected scalable backend workflows
+  - Worked across backend, infra, and product engineering
+
+mindset:
+  - Build fast
+  - Own systems end-to-end
+  - Optimize for scalability
+  - Ship production-ready systems
 ```
 
 ---
 
-# 🚀 Engineering Highlights
+# 🚀 Current Engineering Focus
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 AI Systems
+### 🧠 AI Engineering
 
 * RAG Pipelines
 * LangChain
-* Vector Databases
+* Vector Search
 * Prompt Engineering
-* AI Automation
-* Neo4j Knowledge Graphs
+* AI Automations
+* AI Workflow Orchestration
+* Agentic Workflows
+* AI-assisted Development
 
 </td>
 
 <td width="50%">
 
-### ⚡ Backend Systems
+### ⚡ Backend & Infrastructure
 
 * Distributed Systems
 * Event-Driven Architecture
-* High-Concurrency APIs
 * Microservices
-* Scalability Engineering
+* High-Concurrency Systems
+* Real-Time Communication
+* Scalable APIs
 * System Design
+* Backend Optimization
 
 </td>
 </tr>
@@ -102,23 +120,56 @@ Experience:
 
 <div align="center">
 
-## Languages
+## Languages & Runtime
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,c" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs" />
 
-## Frontend
+---
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,html,css" />
+## Frontend & Mobile
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite" />
+
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/>
+
+---
 
 ## Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,firebase" />
+<img src="https://skillicons.dev/icons?i=express,mongodb,postgres,redis,firebase" />
 
-## Cloud & DevOps
+<img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Event%20Driven%20Architecture-4ECDC4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-5E60CE?style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux" />
+---
 
-## AI / Tools
+## Cloud • DevOps • CI/CD
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions" />
+
+<img src="https://img.shields.io/badge/CI%2FCD-Pipelines-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS-ECS%20%7C%20S3%20%7C%20EC2-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-Native-0EA5E9?style=for-the-badge"/>
+
+---
+
+## AI Engineering & Developer Tools
+
+<img src="https://img.shields.io/badge/Claude-Code-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Copilot-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/v0.dev-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cursor-AI-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pinecone-VectorDB-005FFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
+
+---
+
+## Tools & Workflow
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 
@@ -134,18 +185,18 @@ Experience:
 
 ## 🧠 Warta AI
 
-Human-like conversational AI platform with memory retention and contextual understanding.
+AI conversational platform with contextual memory and intelligent orchestration.
 
 ### Highlights
 
-* Vector-based memory
-* Multi-turn conversations
-* Structured prompt pipelines
-* LangChain orchestration
+* Multi-turn memory system
+* Vector-based context retrieval
+* Structured prompt workflows
+* AI orchestration backend
 
 ### Stack
 
-`Node.js` `LangChain` `Pinecone` `OpenAI`
+`Node.js` `LangChain` `Pinecone`
 
 </td>
 
@@ -153,14 +204,14 @@ Human-like conversational AI platform with memory retention and contextual under
 
 ## ☁️ Distributed Cloud Storage
 
-Scalable distributed storage platform supporting concurrent uploads and RBAC.
+Scalable distributed storage infrastructure with RBAC and real-time uploads.
 
 ### Highlights
 
-* Real-time chunk uploads
+* Chunked uploads
 * Distributed backend services
-* Redis caching layer
-* Scalable storage workflows
+* Redis optimization
+* Large-scale file workflows
 
 ### Stack
 
@@ -172,39 +223,39 @@ Scalable distributed storage platform supporting concurrent uploads and RBAC.
 <tr>
 <td width="50%">
 
-## 🏥 Pharmabolt
+## 📡 E2E Communication Platform
 
-Healthcare commerce platform with real-time dispatch and order workflows.
+Microservice-based communication architecture with scalable real-time systems.
 
 ### Highlights
 
-* Blinkit-style order dispatch
-* High-concurrency systems
-* Real-time synchronization
-* Socket-based communication
+* Real-time messaging
+* Event-driven workflows
+* Distributed communication services
+* Scalable architecture
 
 ### Stack
 
-`React Native` `Node.js` `Firebase`
+`Node.js` `Microservices` `Redis`
 
 </td>
 
 <td width="50%">
 
-## 🌱 Carbon Crunch AI Platform
+## 🎓 VidyaSethu
 
-AI-native compliance and decision system for sustainability workflows.
+Modern scalable educational platform focused on infrastructure and workflow optimization.
 
 ### Highlights
 
-* RAG-based architecture
-* Neo4j graph database
-* Deterministic XML pipelines
-* Compliance automation
+* AI-native architecture
+* Scalable backend workflows
+* Product engineering
+* Modular system design
 
 ### Stack
 
-`Node.js` `Neo4j` `LangChain` `AWS`
+`Next.js` `Node.js` `MongoDB`
 
 </td>
 </tr>
@@ -212,57 +263,71 @@ AI-native compliance and decision system for sustainability workflows.
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=07Akashh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=07Akashh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=07Akashh&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=07Akashh&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=07Akashh&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=07Akashh&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=07Akashh&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=07Akashh&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=07Akashh&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=07Akashh&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
 ---
 
-# 🏆 Engineering Philosophy
+# 🏗️ Engineering Domains
 
-```txt
-Build fast.
-Ship production systems.
-Solve real business problems.
-Prioritize scalability.
-Use AI for leverage.
-Own systems end-to-end.
+```txt id="2yrhmy"
+Backend Engineering        ████████████████████████
+Distributed Systems        ██████████████████████
+AI Workflow Engineering    ████████████████████
+System Design              ███████████████████
+Cloud & Infrastructure     █████████████████
+Real-Time Architectures    ████████████████
+Mobile Engineering         ██████████████
 ```
 
 ---
 
-# 🌍 Connect With Me
+# 🌍 Open To
 
-<div align="center">
+* AI-native startups
+* Founding engineer roles
+* Backend engineering
+* Distributed systems engineering
+* Product engineering
+* Platform engineering
+* AI workflow automation systems
 
-<a href="https://www.linkedin.com/in/rahulksoftdev/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+---
 
-<a href="mailto:rahulk.softdev@gmail.com">
-<img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail"/>
-</a>
+# ⚡ Engineering Philosophy
 
-<a href="https://leetcode.com/rahulksoftdev/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-</div>
+```txt id="4gk31g"
+Build systems that solve real problems.
+Prioritize execution over noise.
+Own infrastructure end-to-end.
+Use AI as leverage, not dependency.
+Design for scalability from day one.
+Ship fast. Iterate faster.
+```
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=07Akashh&style=for-the-badge&color=blue" />
-
-### ⚡ “I enjoy building systems that solve real-world problems at scale.”
+### 🚀 Building scalable systems, AI-native workflows, and production-ready platforms.
 
 </div>
