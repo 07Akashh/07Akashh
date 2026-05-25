@@ -1,3 +1,199 @@
+# Rahul Kumar
+
+### Backend-Focused Software Engineer | AI Systems | Distributed Architectures | Full Stack Builder
+
+I build scalable backend systems, AI-native applications, distributed workflows, and production-grade platforms with a strong focus on performance, ownership, and rapid execution.
+
+I enjoy solving complex engineering problems involving:
+
+* Distributed systems
+* AI workflows & RAG pipelines
+* Event-driven architectures
+* Backend scalability
+* High-concurrency systems
+* Real-time applications
+* Automation & infrastructure
+
+Currently focused on building AI-powered systems, scalable backend architectures, and production-ready products using Node.js, TypeScript, Python, AWS, and modern AI tooling.
+
+---
+
+## 🚀 About Me
+
+* 🔭 Backend-focused Full Stack Engineer
+* ⚡ Built production systems handling **1M+ records**
+* 🧠 Experienced with **RAG pipelines, LangChain, Neo4j, Vector Databases**
+* 🏗️ Strong interest in distributed systems & scalable architectures
+* 🚀 Delivered production MVPs under aggressive timelines
+* ☁️ Working with AWS, Docker, microservices, and event-driven systems
+* 🤖 Exploring AI-native product engineering and agentic workflows
+
+---
+
+# 💼 Experience Highlights
+
+## Full Stack Developer & Team Lead Intern — Carbon Crunch
+
+* Led backend architecture and owned ~90% of the production codebase
+* Delivered MVP in just 15 days
+* Built RAG-based AI systems for compliance workflows
+* Designed deterministic XML generation systems eliminating LLM hallucination risks
+* Developed graph-based knowledge systems using Neo4j
+* Built scalable AI pipelines using LangChain and vector databases
+
+## Software Engineer (Backend) — Adda247
+
+* Worked on asynchronous workflows processing 1M+ records
+* Improved throughput and reduced latency in high-concurrency systems
+* Contributed to scalable event-driven microservice architectures
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 Warta AI — Conversational AI Platform
+
+AI-powered conversational assistant with memory retention and context-aware interactions.
+
+### Tech
+
+Node.js • LangChain • Pinecone • OpenAI • Vector Search
+
+### Highlights
+
+* Multi-turn conversational memory
+* Vector-based contextual understanding
+* Structured prompt pipelines
+* Scalable AI orchestration backend
+
+---
+
+## ☁️ Distributed Cloud Storage Platform
+
+Scalable distributed storage platform with RBAC and real-time uploads.
+
+### Tech
+
+MERN • Socket.IO • Redis • AWS EC2 • Cloudinary
+
+### Highlights
+
+* Chunked real-time uploads
+* Distributed backend architecture
+* Redis-powered caching layer
+* Large-file optimized infrastructure
+
+---
+
+## 🏥 Pharmabolt — Healthcare Commerce Platform
+
+Real-time healthcare and commerce platform with live dispatch systems.
+
+### Tech
+
+React Native • Node.js • Socket.IO • Firebase
+
+### Highlights
+
+* Blinkit-style real-time dispatch workflows
+* High-concurrency order synchronization
+* Low-latency real-time communication
+
+---
+
+# 🛠️ Tech Stack
+
+## Backend & Systems
+
+* Node.js
+* TypeScript
+* Express.js
+* Distributed Systems
+* Event-Driven Architecture
+* REST APIs
+* Microservices
+* System Design
+* Scalability Engineering
+
+## AI / GenAI
+
+* LangChain
+* RAG Pipelines
+* OpenAI APIs
+* Vector Databases
+* Pinecone
+* Neo4j
+* Prompt Engineering
+
+## Databases
+
+* MongoDB
+* PostgreSQL
+* Redis
+
+## Cloud & DevOps
+
+* AWS (EC2, ECS, S3, Lambda, SQS)
+* Docker
+* CI/CD
+* Cloud Deployments
+
+## Frontend
+
+* React.js
+* Next.js
+* React Native
+* Tailwind CSS
+
+---
+
+# 📊 Engineering Focus
+
+```txt
+Backend Engineering      ████████████████████
+Distributed Systems      ██████████████████
+AI Systems               █████████████████
+System Design            ████████████████
+Cloud & DevOps           ██████████████
+Frontend                 ████████████
+```
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=07Akashh\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=07Akashh\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=07Akashh\&theme=tokyonight\&hide_border=true\&layout=compact)
+
+---
+
+# 🌐 Connect With Me
+
+* LinkedIn: <PRIVATE_URL>
+* GitHub: https://github.com/07Akashh
+* LeetCode: <PRIVATE_URL>
+
+---
+
+# 💡 Current Interests
+
+* AI-native applications
+* Agentic workflows
+* Distributed backend systems
+* Event-driven architectures
+* Scalable cloud infrastructure
+* AI + business automation systems
+
+---
+
+> “I enjoy building systems that solve real-world problems at scale.”
+
+
+
+
 # Hi I'm Rahul  💫 About Me:
 🔭 I’m currently working as a MERN Stack Developer
 <br>🤝 I’m looking for help with<br>🌱 I’m currently learning Redux.js<br>
